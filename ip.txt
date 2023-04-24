@@ -1,0 +1,109 @@
+
+IP: 102.90.42.112
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.43.232
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.42.112
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.43.128
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.43.232
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.43.123
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.43.123
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.43.123
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.45.179
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.43.231
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 127.0.0.1
+ User-Agent: Mozilla/5.0 (Linux; Android 11; TECNO KG5j Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.85 Mobile Safari/537.36 AgentWeb/4.1.9  UCBrowser/11.6.4.950
+IP: 102.90.43.123
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.42.112
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.45.179
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.43.123
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.44.55
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.43.123
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.42.95
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.44.219
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.45.130
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.44.21
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.44.21
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.90.45.130
+ User-Agent: Mozilla/5.0 (Linux; Android 11; TECNO KG5j) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36
+IP: 102.67.30.228
+ User-Agent: Mozilla/5.0 (Linux; Android 11; Infinix X6511B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36
+IP: 102.90.45.130
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 197.210.78.65
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Safari/604.1
+IP: 197.210.85.179
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 197.210.85.179
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 197.210.85.179
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 197.210.84.114
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 197.210.85.179
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 197.210.84.114
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 127.0.0.1
+ User-Agent: Mozilla/5.0 (Linux; Android 11; TECNO KG5j) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36
+IP: 197.210.85.189
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 197.210.78.40
+ User-Agent: Mozilla/5.0 (Linux; Android 11; TECNO KG5j Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.85 Mobile Safari/537.36 AgentWeb/4.1.9  UCBrowser/11.6.4.950
+IP: 197.210.84.144
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 197.210.85.189
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 197.210.85.189
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 197.210.85.189
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 105.113.10.27
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Safari/604.1
+IP: 197.210.78.242
+ User-Agent: YoYoWhatsApp/2.23.1.76 A
+IP: 102.89.32.202
+ User-Agent: GBWhatsApp/2.23.1.76 A
+IP: 102.89.32.202
+ User-Agent: GBWhatsApp/2.23.1.76 A
+IP: 102.89.32.202
+ User-Agent: GBWhatsApp/2.23.1.76 A
+IP: 102.89.34.148
+ User-Agent: GBWhatsApp/2.23.1.76 A
+IP: 102.89.32.202
+ User-Agent: GBWhatsApp/2.23.1.76 A
+IP: 102.89.34.61
+ User-Agent: GBWhatsApp/2.23.1.76 A
+IP: 102.89.32.202
+ User-Agent: GBWhatsApp/2.23.1.76 A
+IP: 102.89.34.148
+ User-Agent: GBWhatsApp/2.23.1.76 A
+IP: 102.89.34.61
+ User-Agent: GBWhatsApp/2.23.1.76 A
+IP: 102.89.32.202
+ User-Agent: GBWhatsApp/2.23.1.76 A
+IP: 197.210.84.188
+ User-Agent: Mozilla/5.0 (Linux; U; Android 13; M2101K6G Build/TKQ1.221013.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Safari/537.36 OPR/69.0.2254.65737
+IP: 102.89.32.202
+ User-Agent: Mozilla/5.0 (Linux; Android 11; TECNO KG5j Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.85 Mobile Safari/537.36 AgentWeb/4.1.9  UCBrowser/11.6.4.950
+IP: 197.210.84.188
+ User-Agent: Mozilla/5.0 (Linux; U; Android 13; M2101K6G Build/TKQ1.221013.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Safari/537.36 OPR/69.0.2254.65737

@@ -1,0 +1,417 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+ div{
+    font-family: sans-serif;
+}
+
+.contt{
+   
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+
+}
+
+
+
+.go-back{
+    display: flex;
+    position: fixed;
+    left: 10px;
+    top: 10px;
+    justify-content: space-around;
+align-items: center;
+padding: 5px;
+border: 1px solid rgb(117, 117, 117);
+border-radius: 30px;
+width: 100px;
+height: 30px;
+cursor: pointer;
+text-decoration: none;
+z-index: 1111;
+}
+
+.notextdec{
+    text-decoration: none;
+}
+
+.flex-cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: self-start;
+    flex-wrap: wrap;
+   
+}
+
+.flexed-boxes{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+    padding: 0;
+   
+}
+
+#sub-btn{
+    border-color: teal;
+    color: teal;
+}
+
+#sub-btn:hover{
+    background-color: teal;
+    color: white;
+}
+
+
+.flexed-price{
+    width: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+   justify-content: center;
+   align-items: center;
+    padding: 0;
+   
+}
+
+.course-title{
+    color: #322f3d;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.course-img{
+    width: 500px;
+    height: 350px;
+    border-radius: 7px;
+    object-fit: cover;
+}
+
+.course-menu{
+    width: 100%;
+    padding: 5px;
+    padding-bottom: 0;
+    margin: 0;
+    border: none;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.527);
+    display: flex;
+}
+
+.show-cont{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    
+}
+
+.course-menu-items{
+    margin: 5px;
+    margin-bottom: 0;
+display: flex;
+padding: 5px;
+border: none;
+border-bottom: 3px solid black;
+cursor: pointer;
+}
+
+
+
+.course-menu-items > i ,.course-menu-items > div{
+    margin: 5px;
+
+}
+
+.show-info{
+    display: none;
+    width: 100%;
+   
+}
+
+.show-curri{
+    display: none;
+    width: 100%;
+   
+}
+
+.width{
+    width: 100%;
+   margin: 20px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+.display-info{
+   display: initial;
+}
+
+.display-curri{
+    display: initial;
+ }
+
+.no-curri{
+    border-bottom: none;
+}
+
+.no-info{
+    border-bottom: none;
+}
+
+
+.price{
+    padding: 10px;
+    border: 2px solid rgba(131, 131, 131, 0.527);
+    border-radius: 30px;
+    margin: 100px;
+}
+.ff{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+
+
+.price-box{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+   
+}
+
+.price-val{
+padding: 10px;
+border:1px solid #322f3d;
+border-radius: 20px;
+}
+
+li{
+ margin: 0;
+ padding: 0;
+ 
+}
+
+.price-text{
+    color: #322f3d;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+
+.whatuwill{
+    border: 2px solid rgba(128, 128, 128, 0.849);
+    border-radius: 20px;
+padding: 10px;
+margin: 20px;
+}
+
+.width ul li{
+    font-weight: 700;
+}
+
+hr{
+    color: black;
+}
+
+.block{
+    margin: 10px;
+}
+
+
+/*       WORK SHOP        */
+
+
+
+.workimg{
+    width: 100%;
+    height: 60vh;
+    object-fit: fit;
+}
+
+.hh{
+    display: flex;
+    position: fixed;
+    right: 100px;
+    top: 100px;
+    justify-content: space-around;
+align-items: center;
+padding: 5px;
+border: none;
+background-color: #322f3d;
+border-radius: 7px;
+width: 150px;
+height: 30px;
+color: white;
+text-decoration: none;
+animation: bounce 2s infinite ease-in;
+}
+
+.fa-fire{
+    color: white;
+}
+
+.para{
+    padding: 20px;
+}
+
+@keyframes bounce {
+    0% {top: 100x;}
+    25% {top: 200px}
+    50% {top: 100px}
+    100%{top: 200px}
+}
+
+
+
+/*           EMPTY        */
+
+.empty-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+}
+
+.empty-head{
+    padding: 20px;
+}
+
+.empty-nav-cont{
+    display: flex;
+flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+}
+
+.empty-nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 300px;
+    height: 150px;
+    padding: 20px;
+    border: 1px solid #322f3d7c;
+    border-radius: 7px;
+    margin: 10px;
+    font-size: large;
+    color: rgb(136, 136, 136);
+}
+
+.empty-nav > i{
+    color: #322f3d;
+    font-size: 30px;
+    padding: 20px;
+}
+
+/*        ACCOUNT        */
+
+.acc-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+.acc-img-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+position: relative;
+height: 50vh;
+}
+
+.acc-img-cont > img{
+width: 100%;
+height: 100%;
+object-fit: fill;
+}
+
+.acc-img-cont > div{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: #000000a9;
+}
+
+.acc-img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+    position: absolute;
+    cursor: pointer;
+    top: 50px;
+    left: 50px;
+}
+
+.acc-cred{
+   width: 100%;
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.acc-cred div{
+    font-size: large;
+    color: rgb(124, 124, 124);
+    border: 1px solid #322f3d8c;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ width: 100%;
+
+}
+
+.acc-cred div > span{
+    color:#322f3d;
+    font-size: large;
+    margin: 10px;
+    display: flex;
+    text-align: center;
+    width: 100%;
+}
+
+
+.acc-cred div > i{
+    display: flex;
+    color:rgb(124, 124, 124);
+    font-size: large;
+    font-weight: bold;
+    margin: 10px;
+  align-self: self-start;
+    width: 100%;
+}
